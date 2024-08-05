@@ -16,3 +16,6 @@ Output directory:
 target/surefire-report
 VM Options:
 -ea -Denv=acc -Ddriver=chrome
+
+Clone Project
+https://github.com/mbewu11/flashautomation.git
